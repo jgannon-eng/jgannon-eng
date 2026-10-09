@@ -6,8 +6,8 @@ Welcome to my engineering portfolio!
 ---
 
 ## Current Focus
-**Education:** 3rd year at Vermont State University Randolph
-**Current Coursework:** Digital Circuits II, Electronics III, Calculus II, and Sensors & Instrumentation
+* **Education:** 3rd year at Vermont State University Randolph
+* **Current Coursework:** Digital Circuits II, Electronics III, Calculus II, and Sensors & Instrumentation
 
 ---
 
