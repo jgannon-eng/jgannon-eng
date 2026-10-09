@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm James!
+## Electrical Engineering Technology (EET) Student
 
-<!--
-**jgannon-eng/jgannon-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my engineering portfolio!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+**Education:** 3rd year at Vermont State University Randolph
+**Current Coursework:** Digital Circuits II, Electronics III, Calculus II, and Sensors & Instrumentation
+
+---
+
+### Core Skills
+
+* **Analysis & Design:** Analog & Digital Circuit Analysis, PCB Design, Motor Control
+* **Lab Equipment:** Oscilloscope, Multimeter, Function Generator
+* **Practical:** Soldering, Breadboarding, Prototyping
+
+**Software & Simulation**
+* **EDA & CAD:** KiCad, Multisim
+* **Modeling & Math:** MATLAB, Simulink
+
+**Programming & Embedded Systems**
+* **Languages:** C, VHDL, Ladder Logic
+* **Platforms:** STM32 (STM32CubeIDE), Raspberry Pi, Industrial Robotics
+
+---
+
+### How to Reach Me
+**Email:** jamesgannon.eet@gmail.com
+  
