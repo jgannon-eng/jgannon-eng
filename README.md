@@ -1,5 +1,5 @@
 # Hi, I'm James!
-###Electrical Engineering Technology (EET) Student
+### Electrical Engineering Technology (EET) Student
 
 Welcome to my engineering portfolio!
 
