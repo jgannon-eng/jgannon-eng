@@ -1,9 +1,9 @@
 # Hi, I'm James!
-## Electrical Engineering Technology (EET) Student
+###Electrical Engineering Technology (EET) Student
 
 Welcome to my engineering portfolio!
 
-## Current Focus
+### Current Focus
 * **Education:** 3rd year at Vermont State University Randolph
 * **Current Coursework:** Digital Circuits II, Electronics III, Calculus II, and Sensors & Instrumentation
 
